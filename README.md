@@ -35,6 +35,13 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michalkosiec&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalkosiec&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+</p>
+
 ---
 <!--
 **michalkosiec/michalkosiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
