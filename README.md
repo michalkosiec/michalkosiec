@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Hi, I'm Michał 👋
+## 👨‍💻 Aspiring Developer • Frontend Enthusiast • CS Student
+<p align="center">
+  <b>Tech enthusiast based in Gliwice, Poland</b><br>
+  <i>"Always keen to learn how things work under the hood."</i>
+</p>
 <!--
 **michalkosiec/michalkosiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...  
 - ⚡ Fun fact: ...
 -->
