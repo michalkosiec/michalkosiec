@@ -44,7 +44,7 @@
 
 ## 🌐 Connect with me
 
-* [🔗 LinkedIn](www.linkedin.com/in/michał-kosiec-12a15924a)
+* [🔗 LinkedIn](https://www.linkedin.com/in/michał-kosiec-12a15924a)
 * [📫 Email](mailto:michalkosiecg@gmail.pl)
 
 ---
