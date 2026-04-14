@@ -4,6 +4,13 @@
   <b>Tech enthusiast based in Gliwice, Poland</b><br>
   <i>"Always keen to learn how things work under the hood."</i>
 </p>
+
+---
+
+# 🔍 A bit about me
+*  I enjoy deconstructing complex systems to understand their inner workings.
+*  Currently expanding my technical toolkit and diving deeper into **Docker** and **Kubernetes**.
+*  My journey is fueled by curiosity and a love for problem-solving.
 <!--
 **michalkosiec/michalkosiec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
