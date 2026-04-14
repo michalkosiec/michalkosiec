@@ -1,5 +1,5 @@
-# Hi, I'm Michał 👋
-## 👨‍💻 Aspiring Developer • Frontend Enthusiast • CS Student
+<h1 align="center">Hi, I'm Michał 👋</h1>
+<h3 align="center">Aspiring Developer • Frontend Enthusiast • CS Student</h3>
 <p align="center">
   <b>Tech enthusiast based in Gliwice, Poland</b><br>
   <i>"Always keen to learn how things work under the hood."</i>
