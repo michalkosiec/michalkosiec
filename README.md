@@ -29,9 +29,3 @@ My current focus is on **.NET ecosystem, infrastructure containerization (Docker
 * **Engineering:** A scalable financial suite, bridging the gap between secure cloud-native backends and native mobile clients.
 * **Deepening:** Knowledge in system architecture, microservices patterns, and cloud-native development.
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=michalkosiec&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalkosiec&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-</p>
