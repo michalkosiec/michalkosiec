@@ -18,7 +18,7 @@ I’m a developer focused on writing clean, maintainable, and high-performance c
 My current focus is on **.NET ecosystem, infrastructure containerization (Docker), and building robust API-driven applications.**
 
 ### Tech Highlights ⚙️
-* **Backend:** .NET (C#), Node.js, Express.js
+* **Backend:** ASP.NET, Node.js, Express.js
 * **Frontend:** React
 * **Infrastructure:** Docker, Linux, CI/CD
 * **Languages:** C#, TypeScript, Python, C++, Java
