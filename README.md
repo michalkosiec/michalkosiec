@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Science Student • Software Developer</b><br>
-  Based in Gliwice, Poland. Passionate about building robust systems and scalable architectures.
+  Based in Gliwice, Poland.
 </p>
 
 <p align="center">
@@ -13,19 +13,11 @@
 ---
 
 ### About Me
-I’m a developer focused on writing clean, maintainable, and high-performance code. I enjoy exploring how complex systems work under the hood, from architectural patterns to full-stack integration.
-
-My current focus is on **.NET ecosystem, infrastructure containerization (Docker), and building robust API-driven applications.**
+I’m a developer focused on exploring topics that picked my interest
 
 ### Tech Highlights
 * **Backend:** ASP.NET, Node.js, Express.js
 * **Frontend:** React
-* **Infrastructure:** Docker, Linux, CI/CD
+* **Infrastructure:** Docker, Linux
 * **Languages:** C#, TypeScript, Python, C++, Java
-
----
-
-### Currently
-* **Engineering:** A scalable financial suite, bridging the gap between secure cloud-native backends and native mobile clients.
-* **Deepening:** Knowledge in system architecture, microservices patterns, and cloud-native development.
 
