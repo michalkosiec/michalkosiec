@@ -21,3 +21,5 @@ I’m a developer focused on exploring topics that picked my interest
 * **Infrastructure:** Docker, Linux
 * **Languages:** C#, TypeScript, Python, C++, Java
 
+### Currently
+* Diving deep into architecture
