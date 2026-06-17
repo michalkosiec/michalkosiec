@@ -1,22 +1,16 @@
-<h1 align="center">Hi, I'm Michał</h1>
-
-<p align="center">
-  <b>Computer Science Student • Software Developer</b><br>
-  Based in Gliwice, Poland.
+<div align="center">
+<h1>Michał Kosiec</h1>
+<p>Computer Science Student & Software Developer — Gliwice, Poland</p>
+<p>
+<a href="https://www.linkedin.com/in/michał-kosiec-12a15924a">LinkedIn</a> | <a href="mailto:michalkosiecg@gmail.com">Email</a>
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/michał-kosiec-12a15924a">LinkedIn</a> • 
-  <a href="mailto:michalkosiecg@gmail.com">Email</a>
-</p>
+</div>
 
 ---
 
 ### About Me
-I’m a developer focused on exploring topics that picked my interest
+I am a Computer Science student specializing in fullstack web development. I focus on writing clean code, building practical projects, and experimenting different technologies.
 
-### Tech Highlights
-* **Backend:** ASP.NET, Node.js, Express.js
-* **Frontend:** React
-* **Infrastructure:** Docker, Linux
-* **Languages:** C#, TypeScript, Python, C++, Java
+### Tech Stack
+- **Languages:** C#, TypeScript, Python, Java, C++
+- **Tools & Infrastructure:** Kubernetes, Docker, Linux, Git
