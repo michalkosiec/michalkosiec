@@ -1,9 +1,6 @@
 <div align="center">
 <h1>Michał Kosiec</h1>
 <p>Computer Science Student & Software Developer — Gliwice, Poland</p>
-<p>
-<a href="https://www.linkedin.com/in/michał-kosiec-12a15924a">LinkedIn</a> | <a href="mailto:michalkosiecg@gmail.com">Email</a>
-</p>
 </div>
 
 ---
