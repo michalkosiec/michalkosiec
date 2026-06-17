@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Michał 👋</h1>
+<h1 align="center">Hi, I'm Michał</h1>
 
 <p align="center">
   <b>Computer Science Student • Software Developer</b><br>
@@ -20,6 +20,3 @@ I’m a developer focused on exploring topics that picked my interest
 * **Frontend:** React
 * **Infrastructure:** Docker, Linux
 * **Languages:** C#, TypeScript, Python, C++, Java
-
-### Currently
-* Diving deep into architecture
