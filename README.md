@@ -9,5 +9,5 @@
 I am a Computer Science student specializing in fullstack web development. I focus on writing clean code, building practical projects, and experimenting with different technologies.
 
 ### Tech Stack
-- **Languages:** C#, TypeScript, Python, Java, C++
+- **Languages:** C#, TypeScript, Rust, Python, Java, C++
 - **Tools & Infrastructure:** Kubernetes, Docker, Linux, Git
